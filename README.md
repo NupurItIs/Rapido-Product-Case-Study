@@ -1,3 +1,5 @@
+## PS: Working in a non-tech role rn, but opening my GitHub is a proper nostalgia trip... Old commits, random side projects .. makes me wanna get back to coding and start pushing stuff again.... Also just noticed I never pushed all the files here (lol). They’re still sitting on my local. Will commit and sync everything soon...comiiting this readme for now
+
 # Rapido-Product-Case-Study
 
 This case study explores Rapido, an Indian bike taxi platform that has revolutionized last-mile commute in urban India. The document covers Rapido's origin, business model, target demographics, and strategic approach to capturing the competitive mobility market. It analyzes the operational and marketing strategies that enabled the company to grow despite facing regulatory challenges and intense competition. Key focus areas include market differentiation , user behavior insights, persona-driven design and product recommendations for improving retention, engagement, and market penetration.
